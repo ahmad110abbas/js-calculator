@@ -1,0 +1,14 @@
+.display{
+	width: 150px;
+	height: 60px;
+	border: 1px solid black;
+}
+button{
+	padding: 5px;
+	margin: 5px;
+}
+.keys{
+	border: 1px solid black;
+	width: 150px;
+}
+
